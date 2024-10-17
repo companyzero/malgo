@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/gen2brain/malgo"
+	"github.com/companyzero/malgo"
 )
 
 var testWithHardware = flag.Bool("malgo.hardware", false, "run tests with expecting hardware")

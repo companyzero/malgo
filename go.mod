@@ -1,3 +1,3 @@
-module github.com/gen2brain/malgo
+module github.com/companyzero/malgo
 
 go 1.17
